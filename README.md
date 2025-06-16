@@ -82,12 +82,15 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook "eda 1.ipynb"
 ⚠️ Note: Make sure Python is installed and added to your system path.
 
-##🔍 Further Considerations
+
+---
+
+## 🔍 Further Considerations
 Bimodal distributions suggest subgroup-specific analysis.
 
 Outliers may signal high-risk or erroneous records.
 
 Feature selection will be important for predictive modeling.
 
-##📬 Contact
+## 📬 Contact
 For suggestions or collaboration, feel free to reach out via GitHub or LinkedIn.
