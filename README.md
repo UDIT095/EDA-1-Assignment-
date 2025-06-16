@@ -70,7 +70,7 @@ The dataset contains measurements from fetal monitoring, including fetal heart r
 
 ## 🚀 How to Run
 
-```bash
+bash
 # 1. Clone the repository
 git clone https://github.com/your-username/cardiotocographic-eda.git
 cd cardiotocographic-eda
