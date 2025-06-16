@@ -71,23 +71,23 @@ The dataset contains measurements from fetal monitoring, including fetal heart r
 ## 🚀 How to Run
 
 bash
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/your-username/cardiotocographic-eda.git
 cd cardiotocographic-eda
 
-# 2. Install the required libraries
+### 2. Install the required libraries
 pip install pandas numpy matplotlib seaborn jupyter
 
-# 3. Run the Jupyter Notebook
+### 3. Run the Jupyter Notebook
 jupyter notebook "eda 1.ipynb"
 ⚠️ Note: Make sure Python is installed and added to your system path.
 
-🔍 Further Considerations
+##🔍 Further Considerations
 Bimodal distributions suggest subgroup-specific analysis.
 
 Outliers may signal high-risk or erroneous records.
 
 Feature selection will be important for predictive modeling.
 
-📬 Contact
+##📬 Contact
 For suggestions or collaboration, feel free to reach out via GitHub or LinkedIn.
